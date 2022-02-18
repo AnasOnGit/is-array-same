@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "description": "Check if two arrays are same.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnasOnGit/is-array-same.git"
+  },
+  "keywords": [
+    "arrays",
+    "same",
+    "compare",
+    "unique",
+    "two",
+    "arrays"
+  ],
+  "author": "anas ikhlas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnasOnGit/is-array-same/issues"
+  },
+  "homepage": "https://github.com/AnasOnGit/is-array-same#readme"
+}
